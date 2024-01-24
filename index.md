@@ -55,7 +55,7 @@ Dine personoplysninger opbevares på Aarhus Universitet i personhenførbar form.
 
 + Fra dig og andre* 
 
-*Andre refererer her til [Sundhedsdatastyrelsen][auSDS] og [Danmarks Statistik][auDS]. 
+*Andre refererer her til [Sundhedsdatastyrelsen][auSDS], [Danmarks Statistik][auDS] og [Rambøll Management Consulting A/S][auRMC].  
 
 ## Vi har ret til at behandle dine personoplysninger efter regler i databeskyttelsesforordningen og databeskyttelsesloven
 
