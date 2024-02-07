@@ -85,6 +85,6 @@ Carl Jacobsens Vej 35
 
 [auSDS]: https://sundhedsdatastyrelsen.dk/da/registre-og-services/om-de-nationale-sundhedsregistre/sygdomme-laegemidler-og-behandlinger/landspatientregisteret
 [auDS]: https://www.dst.dk/da/
-[auRMC]: https://www.rambollresults.dk/viden/datasikkerhed/
+[auRMC]: https://rambollxact.dk/datahaandtering
 [aujr]: https://pure.au.dk/portal/da/emdy@ps.au.dk
 [auSBN]: https://pure.au.dk/portal/da/persons/soeren-broberg-nielsen(ca3e5b77-0a5e-4030-a42a-671d4988af42).html
