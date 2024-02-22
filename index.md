@@ -49,7 +49,9 @@ Dine personoplysninger opbevares på Aarhus Universitet i personhenførbar form.
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
 
-+ Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet af [Rambøll Management Consulting A/S][auRMC], Hannemanns Allé 53 2300 København S, CVR-nummer 60997918 efter reglerne i artikel 28 i databeskyttelsesforordningen.
+Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efter reglerne i artikel 28 i databeskyttelsesforordningen af:
++ [Rambøll Management Consulting A/S][auRMC], Hannemanns Allé 53 2300 København S, CVR-nummer 60997918
++ [Danmarks Statistik][auDS], Sankt Kjelds Plads 11 2100 København Ø, CVR-nummer 17150413
 
 ## Personoplysninger er indhentet fra
 
