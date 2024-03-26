@@ -89,4 +89,4 @@ Carl Jacobsens Vej 35
 [auDS]: https://www.dst.dk/da/
 [auRMC]: https://rambollxact.dk/datahaandtering
 [aujr]: https://pure.au.dk/portal/da/emdy@ps.au.dk
-[auSBN]: https://pure.au.dk/portal/da/persons/soeren-broberg-nielsen
+[auSBN]: https://pure.au.dk/portal/da/persons/soren.broberg%40au.dk
